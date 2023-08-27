@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">A passionate engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/h6H17h3K-KEAAAAC/family-guy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=0e75b6&style=flat" alt="mmf-code" /> </p>
 
