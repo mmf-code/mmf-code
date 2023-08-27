@@ -37,7 +37,7 @@
 <!-- hello nice to meet you text start -->
 <div align="center">
     <img loading="lazy" width="30px" src="./media/icons/code.png" alt="code png" />
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO%2C+NICE+TO+MEET+YOU" alt="hello nice to meet you svg" />
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=395&height=29&lines=HELLO" alt="hello nice to meet you svg" />
     <img loading="lazy" width="30px" src="./media/icons/layers.png" alt="layers png" />
 </div>
 <!-- hello nice to meet you text end -->
@@ -138,16 +138,16 @@
 
 <div align="center">
     <!-- github streak start -->
-    <img loading="lazy" width=396 src="https://streak-stats.demolab.com/?user=montasim&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
+    <img loading="lazy" width=396 src="https://streak-stats.demolab.com/?user=mmf-code&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=8F33C4&border=0D1117&ring=EB008B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EB008B&sideLabels=EB008B&excludeDaysLabel=EB008B&dates=FFFFFF" alt="current streak stats" />
     <!-- github streak end -->
     <!-- github stats start -->
-    <img loading="lazy" width=396 src="https://github-readme-stats-montasim.vercel.app/api?username=montasim&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
+    <img loading="lazy" width=396 src="https://github-readme-stats-mmf-code.vercel.app/api?username=mmf-code&rank_icon=percentile&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=29&theme=react&title_color=EB008B&currStreakLabel=EB008B&sideLabels=EB008B&icon_color=EB008B&bg_color=0D1117&text_color=FFFFFF&border_color=61dafb&hide_border=true&include_all_commits=true" alt="github stats" />
     <!-- github stats end -->
 </div>
 
 <div align="center">
     <!-- github most used languages start -->
-    <img loading="lazy" width=325 src="https://github-readme-stats-montasim.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <img loading="lazy" width=325 src="https://github-readme-stats-mmf-code.vercel.app/api/top-langs/?username=mmf-code&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
     <!-- github most used languages end -->
     <!-- wakatime weekly activity start -->
     <!-- <a href="https://wakatime.com/@montasim" title="Data update every midnight">
@@ -158,13 +158,13 @@
 
 <!-- github readme activity graph start -->
 <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=mmf-code&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- github readme activity graph end -->
 
 <!-- github trophy start -->
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=mmf-code&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
 
@@ -187,12 +187,12 @@
     <thead align="center">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/montasim" title="linkedin.com/in/montasim">
+                <a href="https://www.linkedin.com/in/mmf-code" title="linkedin.com/in/atakanyaman">
                     <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.github.com/montasim" title="github.com/montasim">
+                <a href="https://www.github.com/mmf-code" title="github.com/mmf-code">
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
                 </a>
             </th>
