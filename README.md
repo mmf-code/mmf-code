@@ -5,11 +5,18 @@
   <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=0e75b6&style=flat" alt="mmf-code" />
 </p>
 
+<style>
+  .trophy {
+    filter: invert(1) hue-rotate(180deg);
+  }
+</style>
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&row=1&column=4" alt="mmf-code" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&row=1&column=4" alt="mmf-code" class="trophy" />
   </a>
 </p>
+
 
 <p align="left">
   <a href="https://twitter.com/atakanyn" target="blank">
