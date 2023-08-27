@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=0e75b6&style=flat" alt="mmf-code" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/mmf-code=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
   <a href="https://twitter.com/atakanyn" target="blank">
