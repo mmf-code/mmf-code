@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&row=1&column=4&theme=onedark" alt="mmf-code" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&row=1&column=4&theme=darkhub" alt="mmf-code" />
   </a>
 </p>
 
