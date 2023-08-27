@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atakan</h1>
-<h3 align="center">A passionate engineer</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">*_*</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=0e75b6&style=flat" alt="mmf-code" /> </p>
 
