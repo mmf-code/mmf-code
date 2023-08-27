@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">*_*</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=0e75b6&style=flat" alt="mmf-code" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=0e75b6&style=flat" alt="mmf-code" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmf-code" alt="mmf-code" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&row=1&column=4" alt="mmf-code" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/atakanyn" target="blank"><img src="https://img.shields.io/twitter/follow/atakanyn?logo=twitter&style=for-the-badge" alt="atakanyn" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&row=2&column=3" alt="mmf-code" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/atakanyn" target="blank">
+    <img src="https://img.shields.io/twitter/follow/atakanyn?logo=twitter&style=for-the-badge" alt="atakanyn" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Mgm_ekstrem](https://github.com/mmf-code/Mgm_ekstrem)
 
