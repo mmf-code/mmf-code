@@ -13,9 +13,12 @@
 
 <p align="left">
   <a href="https://twitter.com/atakanyn" target="blank">
-    <img src="https://img.shields.io/twitter/follow/atakanyn?logo=twitter&style=for-the-badge" alt="atakanyn" />
+    <img src="https://img.shields.io/twitter/follow/atakanyn?logo=twitter&style=for-the-badge&color=1da1f2" alt="atakanyn" />
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmf-code&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mmf-code" /></p>
+
 
 - 🔭 I’m currently working on [Watershed_tuto](https://github.com/mmf-code/Watershed_tuto)
 
