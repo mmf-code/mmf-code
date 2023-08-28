@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20views&color=4078c0&style=flat" alt="mmf-code" />
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmf-code&show_icons=true&locale=en&layout=compact&theme=dark" alt="mmf-code" />
 </p>
 
 
@@ -34,9 +35,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmf-code&show_icons=true&locale=en&theme=transparent" alt="mmf-code" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmf-code&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mmf-code" /></p>
 
 
 
