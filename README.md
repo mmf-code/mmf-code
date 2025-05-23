@@ -12,9 +12,9 @@
 
 ### 🔭 What I’m Building
 
-- **🛰️ Formation Control of Drones under Dynamic Meteorology**  
+- **🛰️ Formation Control of Drones under Dynamic Meteorology—<a href="https://github.com/mmf-code/final_desktop">Formation Control</a>** 
   Decentralised fuzzy-PID controller in ROS2 & AirSim, with PSO tuning and Type-2 FLS.
-- **🌡️ BLE Environmental Sensor Node**  
+- **🌡️ BLE Environmental Sensor Node—<a href="https://github.com/mmf-code/2025-Embedded-Systems-Developer-Assignment">Bicycle-Model-Vehicle-Simulation</a>** 
   C firmware on Raspberry Pi 5: I²C sensors → circular buffers → real-time stats → dynamic BLE advertising.
 - **🚗 Autonomous Vehicle Model—<a href="https://github.com/mmf-code/Bicycle-Model-Vehicle-Simulation">Bicycle-Model-Vehicle-Simulation</a>**
   
