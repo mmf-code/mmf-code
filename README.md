@@ -1,7 +1,7 @@
 <h1 align="center">Atakan Yaman</h1>
 
 <p align="center">
-  <em>Embedded & Control Engineer · Robotics & AI Researcher</em>
+  <em> Control Engineering Student · Robotics & AI Researcher</em>
 </p>
 
 <div align="center">
@@ -16,9 +16,7 @@
   Decentralised fuzzy-PID controller in ROS2 & AirSim, with PSO tuning and Type-2 FLS.
 - **🌡️ BLE Environmental Sensor Node**  
   C firmware on Raspberry Pi 5: I²C sensors → circular buffers → real-time stats → dynamic BLE advertising.
-- **⚡ Three-Phase Inverter Model**  
-  Simulink SPWM + V/f scalar control, including dead-time compensation.
-- **🚗 Autonomous Vehicle Model (KON429E)**  
+- **🚗 Autonomous Vehicle Model**  
   Bicycle-model dynamics, Kalman filtering, and path tracking.
 
 <details>
