@@ -52,6 +52,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmf-code&theme=transparent&hide_border=true&show_icons=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmf-code&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmf-code&count_private=true&cache_seconds=7200" />
+
 </p>
 
 ---
