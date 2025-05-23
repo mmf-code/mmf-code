@@ -1,63 +1,65 @@
 <h1 align="center">Atakan Yaman</h1>
-<p align="center">
-  <em>Software Developer & Data Science Enthusiast</em>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=mmf-code&label=Profile%20Views&color=007ACC&style=flat-square" alt="Profile Views" />
-</p>
 
----
+<p align="center">
+  <em>Embedded & Control Engineer · Robotics & AI Researcher</em>
+</p>
 
 <div align="center">
-  <a href="https://github.com/mmf-code">
-    <img src="https://github-readme-stats.vercel.app/api?username=mmf-code&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="Atakan Yaman's GitHub Stats" height="170px" />
-  </a>
-  <a href="https://github.com/mmf-code">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmf-code&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Atakan Yaman's Top Languages" height="170px" />
-  </a>
+  <code> C · C++ · Python · MATLAB · ROS2 · Simulink · BLE · RTOS · TensorFlow </code>
 </div>
 
+---
+
+### 🔭 What I’m Building
+
+- **🛰️ Formation Control of Drones under Dynamic Meteorology**  
+  Decentralised fuzzy-PID controller in ROS2 & AirSim, with PSO tuning and Type-2 FLS.
+- **🌡️ BLE Environmental Sensor Node**  
+  C firmware on Raspberry Pi 5: I²C sensors → circular buffers → real-time stats → dynamic BLE advertising.
+- **⚡ Three-Phase Inverter Model**  
+  Simulink SPWM + V/f scalar control, including dead-time compensation.
+- **🚗 Autonomous Vehicle Model (KON429E)**  
+  Bicycle-model dynamics, Kalman filtering, and path tracking.
+
+<details>
+<summary>Previous highlights</summary>
+
+- **Neuron-based Non-linear PID controller** (MATLAB)  
+- **GPU-accelerated image segmentation—<a href="https://github.com/mmf-code/Watershed_tuto">Watershed_tuto</a>**
+</details>
+
+---
+
+### 🛠️ Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Simulink](https://img.shields.io/badge/-Simulink-f47721?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mmf-code&theme=dracula&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mmf-code&theme=transparent&hide_border=true&show_icons=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmf-code&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## About Me
+### 🌐 Connect
 
--   🔭 I am currently focused on **[Watershed_tuto](https://github.com/mmf-code/Watershed_tuto)**, exploring image segmentation techniques and related applications.
--   👨‍💻 My portfolio of projects and contributions is available at **[github.com/mmf-code](https://github.com/mmf-code)**.
--   📄 For a detailed overview of my professional experience, please visit my **[LinkedIn Profile](https://www.linkedin.com/in/atakanyaman/)**.
--   📫 **Contact:** atakan.yamana@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atakanyaman)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/atakanyn)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/mentalmindf)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atakan.yamana@gmail.com)
 
-## Technical Skills & Tools
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
-  <!-- Add additional relevant tools and technologies as needed -->
-</p>
-
-## Professional Network
-
-<p align="center">
-  <a href="https://linkedin.com/in/atakanyaman" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: Atakan Yaman" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/atakanyn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter: @atakanyn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/mentalmindf" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle: mentalmindf" height="30" width="40" />
-  </a>
-</p>
-
----
-<!-- Optional: A GitHub activity graph can provide a dynamic overview of contributions. -->
-<!-- <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mmf-code&theme=tokyonight" alt="GitHub Activity Graph"/></p> -->
+<!-- Optional activity graph -->
+<!--
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmf-code&theme=github-compact)
+-->
