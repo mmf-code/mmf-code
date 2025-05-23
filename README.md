@@ -18,6 +18,9 @@
   C firmware on Raspberry Pi 5: I²C sensors → circular buffers → real-time stats → dynamic BLE advertising.
 - **🚗 Autonomous Vehicle Model**  
   Bicycle-model dynamics, Kalman filtering, and path tracking.
+  - **🧠 Nonlinear System Identification & Control **  
+  Identification of black-box systems using regression, curve fitting, and NARX neural networks...
+
 
 <details>
 <summary>Previous highlights</summary>
