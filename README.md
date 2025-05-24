@@ -22,6 +22,7 @@
   
   Bicycle-model dynamics, Kalman filtering, and path tracking.
 - **🧠 Nonlinear System Identification & Control—<a href="https://github.com/mmf-code/Nonlinear-System-Identification-and-Control">Nonlinear-System-Identification-and-Control</a>**
+  
   Identification of black-box systems using regression, curve fitting, and NARX neural networks...
 
 
