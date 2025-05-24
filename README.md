@@ -28,8 +28,8 @@
 <details>
 <summary>Previous highlights</summary>
 
-- **Neuron-based Non-linear PID controller** (MATLAB)  
 - **GPU-accelerated image segmentation—<a href="https://github.com/mmf-code/Watershed_tuto">Watershed_tuto</a>**
+- **Modern Anemometer with Raspberry Pi & 3D Printing—<a href="https://github.com/mmf-code/mto_final">mto_final**
 </details>
 
 ---
