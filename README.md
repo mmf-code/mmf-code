@@ -5,13 +5,13 @@ Control Engineering Student · Robotics & AI
 
 ## Current Work
 
+- **Multi-Agent Formation Control under Disturbances**  
+  ROS 2 + AirSim swarm; decentralized fuzzy–PID, PSO tuning, Type-2 FLS; event-triggered comms  
+  Repo: https://github.com/mmf-code/multi-agent-formation-control-under-disturbances
+
 - **Formation Control under Dynamic Meteorology**  
   Decentralized fuzzy–PID in ROS 2 & AirSim; PSO tuning; Type-2 FLS  
   Repo: https://github.com/mmf-code/final_desktop
-
-- **BLE Environmental Sensor Node**  
-  C firmware on Raspberry Pi 5. I²C sensing → circular buffers → on-device stats → dynamic BLE advertising  
-  Repo: https://github.com/mmf-code/2025-Embedded-Systems-Developer-Assignment
 
 - **Autonomous Vehicle (Bicycle Model)**  
   Kinematic bicycle dynamics, Kalman filtering, path tracking  
@@ -24,9 +24,12 @@ Control Engineering Student · Robotics & AI
 <details>
 <summary>Previous highlights</summary>
 
+- **BLE Environmental Sensor Node** — C firmware on Raspberry Pi 5  
+  I²C sensing → circular buffers → on-device stats → dynamic BLE advertising  
+  Repo: https://github.com/mmf-code/2025-Embedded-Systems-Developer-Assignment
+
 - GPU-accelerated image segmentation — https://github.com/mmf-code/Watershed_tuto  
 - Modern anemometer with Raspberry Pi & 3D printing — https://github.com/mmf-code/mto_final
-
 </details>
 
 ---
