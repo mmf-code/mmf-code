@@ -44,12 +44,10 @@ C · C++ · Python · MATLAB · ROS 2 · Simulink · Linux · BLE · RTOS · Ten
     height="155"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmf-code&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmf-code&layout=compact&hide_border=true&theme=transparent&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=Watershed_tuto,mto_final"
     height="155"
   />
 </p>
-
-<!-- If third-party cards fail to load, remove the section above. -->
 
 ---
 
